@@ -1,0 +1,11 @@
+.encabezado{
+    background-image: url(./../../../assets/Farmacia\ 4.webp);
+    height: 70px;
+    display: flex;
+    align-items: center;
+    padding-left: 15px;
+}
+.encabezado img{
+    width: 60px;
+    margin-right: 10px;
+}
